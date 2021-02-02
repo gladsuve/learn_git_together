@@ -6,3 +6,4 @@ pair와 git remote 협업하기
 거울
 울릉도
 도라지
+지구
