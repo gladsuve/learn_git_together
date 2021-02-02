@@ -12,3 +12,4 @@ pair와 git remote 협업하기
 조개
 ??!!!!
 '리겜 ㄱㄱ'
+ㅇㅇㅇㅇㅇㅇdddddd
