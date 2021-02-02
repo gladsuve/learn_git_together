@@ -7,3 +7,4 @@ pair와 git remote 협업하기
 울릉도
 도라지
 지구
+구조대
